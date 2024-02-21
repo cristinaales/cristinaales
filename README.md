@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Cristina Alés, an **oceanographer** with a master's degree in **Geographic Information Systems**.
+
+Throught my studies I've explored coding and now I want to expand my knowledge in this field.
+
 <!--
 **cristinaales/cristinaales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
